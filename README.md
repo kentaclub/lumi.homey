@@ -1,3 +1,2 @@
-# Lumi control
-
-Control Lumi
+# Lumi Zigbee VN
+LumiLumi 
